@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3 File Exporter", "Mp3 File Exporter\Mp3 File Exporter.csproj", "{5D09A8A0-F7B4-4B4C-B493-CB5FC204B213}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Copier", "Mp3 File Exporter\File Copier.csproj", "{5D09A8A0-F7B4-4B4C-B493-CB5FC204B213}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
