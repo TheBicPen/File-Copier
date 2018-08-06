@@ -7,8 +7,8 @@
     <ProjectGuid>{5D09A8A0-F7B4-4B4C-B493-CB5FC204B213}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Mp3_File_Exporter</RootNamespace>
-    <AssemblyName>Mp3 File Exporter</AssemblyName>
+    <RootNamespace>File_Copier</RootNamespace>
+    <AssemblyName>File Copier</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -110,6 +110,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Mp3 File Exporter_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
